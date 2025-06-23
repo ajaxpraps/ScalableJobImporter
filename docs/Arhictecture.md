@@ -4,6 +4,10 @@
 
 ![Architecture Diagram](./Architecture.png)
 
+### Ui Screenshot
+
+![Architecture Diagram](./UiScreenshot.png)
+
 This system architecture is designed to:
 
 - Import job data from external APIs or RSS feeds.
