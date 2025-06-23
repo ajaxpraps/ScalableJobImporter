@@ -1,6 +1,12 @@
-# Project Setup and Running Instructions
+# Scalable Job Importer System with Real-time Tracking
 
-This README provides instructions on how to set up and run different components of the Scalable Job Importer project.
+## Overview
+
+![Architecture Diagram](./Architecture.png)
+
+### Ui Screenshot
+
+![Architecture Diagram](./UiScreenshot.png)
 
 ---
 
