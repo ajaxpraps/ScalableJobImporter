@@ -2,7 +2,7 @@
 
 ## Overview
 
-![Architecture Diagram](./scalableJobImporter.png)
+![Architecture Diagram](./Architecture.png)
 
 This system architecture is designed to:
 
