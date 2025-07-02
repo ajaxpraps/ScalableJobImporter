@@ -35,7 +35,6 @@ It consists of three main services:
 ### 2. Job History Tracker (Service)
 
 - A Node.js-based WebSocket server (e.g., using `socket.io`).
-- Watches MongoDB (via change streams or polling) for updates to import history.
 - Emits updates to connected clients through WebSocket.
 - Handles initial data fetch and live updates.
 
